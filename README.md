@@ -1,4 +1,4 @@
-# hello,Github!
+# 访客个数：![](http://cc.amazingcounters.com/counter.php?i=3223121&c=9669676)
 # *我的洛谷团队：[戳这里](https://www.luogu.org/team/show?teamid=2342)*
 ## 我是一个普通中学生，
 ## 喜欢新鲜。
