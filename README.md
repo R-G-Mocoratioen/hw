@@ -2,8 +2,23 @@
 
 ## 本周照片 / Pictures of this week
 
-![见pics目录下的2019.6.8 1](https://r-g-mocoratioen.github.io/paw/old/2019.6.8/2019.6.8%201.png)
-![见pics目录下的2019.6.8 2](https://r-g-mocoratioen.github.io/paw/old/2019.6.8/2019.6.8%202.png)
+![](https://r-g-mocoratioen.github.io/paw/old/2019.7.4/2019.7.4%201.png)
+![](https://r-g-mocoratioen.github.io/paw/old/2019.7.4/2019.7.4%202.png)
+![](https://r-g-mocoratioen.github.io/paw/old/2019.7.4/2019.7.4%203.png)
+![](https://r-g-mocoratioen.github.io/paw/old/2019.7.4/2019.7.4%204.png)
+![](https://r-g-mocoratioen.github.io/paw/old/2019.7.4/2019.7.4%205.png)
+![](https://r-g-mocoratioen.github.io/paw/old/2019.7.4/2019.7.4%206.png)
+![](https://r-g-mocoratioen.github.io/paw/old/2019.7.4/2019.7.4%207.png)
+![](https://r-g-mocoratioen.github.io/paw/old/2019.7.4/2019.7.4%208.png)
+![](https://r-g-mocoratioen.github.io/paw/old/2019.7.4/2019.7.4%209.png)
+![](https://r-g-mocoratioen.github.io/paw/old/2019.7.4/2019.7.4%2010.png)
+![](https://r-g-mocoratioen.github.io/paw/old/2019.7.4/2019.7.4%2011.png)
+![](https://r-g-mocoratioen.github.io/paw/old/2019.7.4/2019.7.4%2012.png)
+![](https://r-g-mocoratioen.github.io/paw/old/2019.7.4/2019.7.4%2013.png)
+![](https://r-g-mocoratioen.github.io/paw/old/2019.7.4/2019.7.4%2014.png)
+![](https://r-g-mocoratioen.github.io/paw/old/2019.7.4/2019.7.4%2015.png)
+
+## [先前的照片 / Pictures Before](https://r-g-mocoratioen.github.io/paw/old/)
 
 ## 项目简介 / Introducion
 
