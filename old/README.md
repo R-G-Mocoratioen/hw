@@ -1,7 +1,5 @@
-# Ò»ÖÜÕÕÆ¬ËÙÀÀ / Pictures of A Week, PAW
+# ä¸€å‘¨ç…§ç‰‡é€Ÿè§ˆ / Pictures of A Week, PAW
 
-## ÏÈÇ°µÄÕÕÆ¬ / Pictures before
+## å…ˆå‰çš„ç…§ç‰‡ / Pictures before
 
-[2019.6.8](https://r-g-mocoratioen.github.io/paw/old/20190608)
-
-**Last edited on : 06/08/2019**
+**Last edited on : 07/04/2019**
